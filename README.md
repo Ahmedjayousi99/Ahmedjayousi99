@@ -50,7 +50,6 @@ Skills: `Agile Methodologies` `Project Management` ` Full Stack webDevelopment`
 <br>
 
 
-
 ## Contact me:
 Gmail: ahmedjayousiii99@gmail.com 
 
