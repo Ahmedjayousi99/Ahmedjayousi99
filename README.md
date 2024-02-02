@@ -43,10 +43,10 @@
 
 ## Academic Background:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://images.squarespace-cdn.com/content/v1/5971e6afb8a79b30ee178dd3/1617958283231-RD99O7WHFA8OQWCLY4TA/TechLabs.png"/>](https://www.uninter.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://images.squarespace-cdn.com/content/v1/5971e6afb8a79b30ee178dd3/1617958283231-RD99O7WHFA8OQWCLY4TA/TechLabs.png"/>]((https://techlabs.org/)
 **Fullstack Developer** \
-[**UNINTER**](https://techlabs.org/)  • In progress\
-Skills: `Agile Methodologies``Project Management` `Full Stack webDevelopment` 
+(https://techlabs.org/)• In progress\
+Skills: `Agile Methodologies` `Project Management` ` Full Stack webDevelopment` 
 <br>
 
 
