@@ -57,7 +57,7 @@ Skills: `Agile Methodologies` `Project Management` ` Full Stack webDevelopment`
 
 <br>
 
-[<br><img align="left" height="94px" width="94px" alt="Warpnet" src="https://img-b.udemycdn.com/course/750x422/1565838_e54e_18.jpg"/>](https://techlabs.org/)
+[<br><img align="left" height="94px" width="94px" alt="Warpnet" src="https://img-b.udemycdn.com/course/750x422/1565838_e54e_18.jpg"/>](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 **Fullstack Developer** \
 • In progress\
 Skills: `HTML5` `CSS3`  `Flexbox` `GRID` `Bootstrap` `JavaScript` `Git` `GitHub` `React`
