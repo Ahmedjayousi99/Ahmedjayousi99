@@ -7,7 +7,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=7209b7&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+AhmedJayousi;I'm+Ambitious+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=7209b7&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+AhmedJayousi;Ambitious+Developer)](https://git.io/typing-svg)
 
 <h3 align="center">"Talk is cheap. Show me the code"</h3>
 <h4 align="center">- Linus Torvalds -</h4>
