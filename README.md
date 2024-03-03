@@ -50,24 +50,28 @@
 
 ## Academic Background:
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://freecoursesite.com/wp-content/uploads/2018/09/1406344_1d65_3.jpg"/>](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass)
-**Fullstack Developer** \
-• In progress\
-Skills: `Agile Methodologies` `Project Management` ` Full Stack webDevelopment` 
+**JavaScript Algorithms and Data Structures Masterclass** 
+• In progress
+
+Skills: `Algorithms & Data Structures Masterclass`
+
 
 <br>
 
 
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://images.squarespace-cdn.com/content/v1/5971e6afb8a79b30ee178dd3/1617958283231-RD99O7WHFA8OQWCLY4TA/TechLabs.png"/>](https://techlabs.org/)
-**Fullstack Developer** \
-• In progress\
-Skills: `Agile Methodologies` `Project Management` ` Full Stack webDevelopment` 
+**Backend  Developer** 
+• In progress
+
+Skills: `Agile Methodologies` `Project Management` ` Backend webDevelopment` 
 
 <br>
 
 [<br><img align="left" height="94px" width="94px" alt="Warpnet" src="https://img-b.udemycdn.com/course/750x422/1565838_e54e_18.jpg"/>](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
-**Fullstack Developer** \
-• In progress\
+**Fullstack Developer**
+• In progress
+
 Skills: `HTML5` `CSS3`  `Flexbox` `GRID` `Bootstrap` `JavaScript` `Git` `GitHub` `React`
 `PostergreSQL` `API` 
 
