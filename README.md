@@ -49,6 +49,14 @@
 
 
 ## Academic Background:
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://freecoursesite.com/wp-content/uploads/2018/09/1406344_1d65_3.jpg"/>](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass)
+**Fullstack Developer** \
+• In progress\
+Skills: `Agile Methodologies` `Project Management` ` Full Stack webDevelopment` 
+
+<br>
+
+
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://images.squarespace-cdn.com/content/v1/5971e6afb8a79b30ee178dd3/1617958283231-RD99O7WHFA8OQWCLY4TA/TechLabs.png"/>](https://techlabs.org/)
 **Fullstack Developer** \
