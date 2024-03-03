@@ -68,7 +68,7 @@ Skills: `Agile Methodologies` `Project Management` ` Backend webDevelopment`
 
 <br>
 
-[<br><img align="left" height="94px" width="94px" alt="Warpnet" src="https://img-b.udemycdn.com/course/750x422/1565838_e54e_18.jpg"/>](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://img-b.udemycdn.com/course/750x422/1565838_e54e_18.jpg"/>](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 **Fullstack Developer**
 • In progress
 
